@@ -1,5 +1,5 @@
-<h1 align="center">Greetings, Cybernaut! 👋</h1>
-<h3 align="center">I'm Vinicius, a DevSecOps & Security Engineer on a mission to fortify the digital world.</h3>
+<h1 align="center">Hi 👋, I'm Vinicius</h1>
+<h3 align="center">A DevSecOps Engineer building secure pipelines, one line of code at a time.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusntch&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusntch" />
@@ -13,24 +13,36 @@
 
 ## The Mission
 
-I specialize in building and automating the defenses of the modern software lifecycle. My goal is to integrate security seamlessly into the development pipeline, turning potential vulnerabilities into secure, repeatable processes. Think of me as a digital architect who ensures the walls are strong and the alarms are always on.
+My work is the intersection of development, security, and operations. I specialise in designing and implementing **automated security controls** that integrate seamlessly into the CI/CD lifecycle. My goal is to **shift security left**, ensuring that vulnerabilities are identified and mitigated before they ever reach production. This repository serves as my digital laboratory, where I continually experiment with new tools and techniques to build more resilient systems.
 
 ---
 
-### **DevSecOps Arsenal**
+## My DevSecOps Arsenal 🛠️
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Security** | [Mention specific security tools like OWASP ZAP, Burp Suite, etc. if you have them in your repertoire] |
-| **Cloud & Infra** | AWS, Linux, Docker, Vagrant |
-| **CI/CD & Automation** | Jenkins, GitHub Actions, Bash, Python |
-| **Monitoring** | ELK Stack (Elasticsearch, Logstash, Kibana) |
-| **Collaboration** | Git |
+> A collection of the tools and technologies I use to build and fortify systems.
+
+<br/>
+
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+</p>
 
 ---
 
-### Connect with Me
+## Connect with Me
 
-[Insert your social media icons here]
+> Let's discuss a secure future.
+
+[Add your social media icons here]
 
 ---
