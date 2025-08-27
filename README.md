@@ -13,7 +13,7 @@
 
 ## The Mission
 
-My work is the intersection of development, security, and operations. I specialise in designing and implementing **automated security controls** that integrate seamlessly into the CI/CD lifecycle. My goal is to **shift security left**, ensuring that vulnerabilities are identified and mitigated before they ever reach production. This repository serves as my digital laboratory, where I continually experiment with new tools and techniques to build more resilient systems.
+My work is the intersection of development, security, and operations. I specialize in designing and implementing **automated security controls** that integrate seamlessly into the CI/CD lifecycle. My goal is to **shift security left**, ensuring that vulnerabilities are identified and mitigated before they ever reach production. This repository serves as my digital lab, where I'm constantly experimenting with new tools and techniques to build more resilient systems.
 
 ---
 
@@ -43,6 +43,6 @@ My work is the intersection of development, security, and operations. I speciali
 
 > Let's discuss a secure future.
 
-[Add your social media icons here]
+[(https://www.linkedin.com/in/viniciuschagas/)]
 
 ---
